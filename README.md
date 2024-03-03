@@ -2,7 +2,7 @@
 
 ***This mod will not continue to be updated.***
 
-The mod adds the ability to mine blocks as if you were using the "Silk Touch" Enchantment, with the consequence that you mine it slower. Ideal for early game.
+Add the Golden Eye, based on the one from OpenBlocks, an item that will allow you to find any structure found in the world!
 
 # Forge
 
