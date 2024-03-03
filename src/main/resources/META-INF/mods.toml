@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+license="GPL-3.0-or-later"
+issueTrackerURL="https://github.com/Cozary/golden-eye/issues"
+
+[[mods]]
+
+modId = "golden_eye"
+version = "1.19.2-1.0.4"
+displayName = "Golden Eye"
+credits = "Thanks for download this mod uwu"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/golden-eye"
+authors = "Cozary"
+description = '''
+    The Golden Eye will help you search for Structures!
+    '''
+[[dependencies.golden_eye]]
+modId = "forge"
+mandatory = true
+versionRange = "[43,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.golden_eye]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.19.2,1.20)"
+ordering = "NONE"
+side = "BOTH"
